@@ -15,7 +15,7 @@ photo   wm2                         = Pick up the basket
 photo   wm3                         = Get the COSHH cupboard key
         url                         = WashingM3.jpg
         
-photo   wm4                         = Open COSHH cupboard
+photo   wm4                         = Open the COSHH cupboard
         url                         = WashingM4.jpg
         
 photo   wm5                         = Get the washing tablets
