@@ -133,14 +133,6 @@ fact WashingM7.1 = First fact about WashingM7
 fact WashingM7.2 = Another fact about WashingM7
 
 
-# Details of photo WashingM8
-photo WashingM8 = Title of WashingM8
-  url = WashingM8.jpg
-
-fact WashingM8.1 = First fact about WashingM8
-fact WashingM8.2 = Another fact about WashingM8
-
-
 # Details of photo WashingM9
 photo WashingM9 = Title of WashingM9
   url = WashingM9.jpg
