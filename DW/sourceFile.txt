@@ -4,11 +4,14 @@ app    FallsWCC.DW                  =  WCC Dish Washer
        description                  =  How to use a dish washer                                                      
        email                        =  215multimediasuite@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
-       icon                         =  Dishwasher1.jpg 
+       icon                         =  Dishwasher.jpg 
        logoText                     =  Washing dirty dishes, Coreliu 
        ordered                      =  always
        rightInARow                  =  3
-
+       musicSpeechVolume            =  200
+       
+photo   dw1                         = Take the dirty dishes from the sink
+        url                         = Dishwasher1
 
 photo   dw2                         = Open the dishwasher
         url                         = Dishwasher2.jpg
@@ -34,15 +37,13 @@ photo   dw8                         = Choose the right cycle
 photo   dw9                         = Press the start button
         url                         = Dishwasher9.jpg
         
-photo   wm10                        = Choose the right cycle
-        url                         = WashingM11.jpg
+photo   dw10                        = When it stops open the dishwasher door
+        url                         = Dishwasher10.jpg
         
-photo   wm11                        = Press the ON button
-        url                         = WashingM11.jpg
+photo   dw11                        = Off load the clean dishes
+        url                         = Dishwasher11.jpg
         
-photo   wm12                        = Take out the washing clothes
-        url                         = WashingM12.jpg
+photo   dw12                        = Put away the clean dishes
+        url                         = Dishwasher12
         
-photo   wm13                        = Put the damp clothes on the rack
-        url                         = WashingM13.jpg
         
