@@ -3,7 +3,7 @@ app    FallsWCC.WM                  =  WCC Washing Machine
        description                  =  How to use a washing machine                                                      
        email                        =  215multimediasuite@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
-       icon                         =  WashingM1.jpg 
+       icon                         =  WashingM1.JPG 
        logoText                     =  Washing Clothes, Coreliu 
        ordered                      =  always
        rightInARow                  =  3
@@ -40,7 +40,7 @@ photo   wm11                        = Press the ON button
         url                         = WashingM11.jpg
         
 photo   wm12                        = Take out the washing clothes
-        url                         = WashingM12.jpg
+        url                         = WashingM12.JPG
         
 photo   wm13                        = Put the damp clothes on the rack
         url                         = WashingM13.jpg
