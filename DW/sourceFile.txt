@@ -1,1 +1,48 @@
 
+app    FallsWCC.DW                  =  WCC Dish Washer                                                              
+       author                       =  215MMS                                                                                            
+       description                  =  How to use a dish washer                                                      
+       email                        =  215multimediasuite@gmail.com                                                                                   
+       emphasis                     =  15                                                                                                    
+       icon                         =  Dishwasher1.jpg 
+       logoText                     =  Washing dirty dishes, Coreliu 
+       ordered                      =  always
+       rightInARow                  =  3
+
+
+photo   dw2                         = Open the dishwasher
+        url                         = Dishwasher2.jpg
+        
+photo   dw3                         = Load the dirty dishes
+        url                         = Dishwasher3.jpg
+        
+photo   dw4                         = Put the dishwasher tablet in
+        url                         = Dishwasher4.jpg
+        
+photo   dw5                         = Get the washing tablets
+        url                         = WashingM5.jpg
+        
+photo   wm6                         = Open the washing machine door
+        url                         = WashingM6.jpg
+        
+photo   wm7                         = Loading the washing clothes
+        url                         = WashingM7.jpg
+        
+photo   wm8                         = Put the washing tablets in the machine
+        url                         = WashingM8.jpg
+        
+photo   wm9                         = Close the washing machine door
+        url                         = WashingM9.jpg
+        
+photo   wm10                        = Choose the right cycle
+        url                         = WashingM11.jpg
+        
+photo   wm11                        = Press the ON button
+        url                         = WashingM11.jpg
+        
+photo   wm12                        = Take out the washing clothes
+        url                         = WashingM12.jpg
+        
+photo   wm13                        = Put the damp clothes on the rack
+        url                         = WashingM13.jpg
+        
