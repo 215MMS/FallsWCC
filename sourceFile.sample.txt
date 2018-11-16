@@ -29,6 +29,38 @@ fact 20170723_205436.1 = First fact about 20170723_205436
 fact 20170723_205436.2 = Another fact about 20170723_205436
 
 
+# Details of photo Dishwasher10
+photo Dishwasher10 = Title of Dishwasher10
+  url = Dishwasher10.jpg
+
+fact Dishwasher10.1 = First fact about Dishwasher10
+fact Dishwasher10.2 = Another fact about Dishwasher10
+
+
+# Details of photo Dishwasher11
+photo Dishwasher11 = Title of Dishwasher11
+  url = Dishwasher11.jpg
+
+fact Dishwasher11.1 = First fact about Dishwasher11
+fact Dishwasher11.2 = Another fact about Dishwasher11
+
+
+# Details of photo Dishwasher12
+photo Dishwasher12 = Title of Dishwasher12
+  url = Dishwasher12.jpg
+
+fact Dishwasher12.1 = First fact about Dishwasher12
+fact Dishwasher12.2 = Another fact about Dishwasher12
+
+
+# Details of photo Dishwasher2
+photo Dishwasher2 = Title of Dishwasher2
+  url = Dishwasher2.jpg
+
+fact Dishwasher2.1 = First fact about Dishwasher2
+fact Dishwasher2.2 = Another fact about Dishwasher2
+
+
 # Details of photo IMG_8149
 photo IMG_8149 = Title of IMG_8149
   url = IMG_8149.jpg
