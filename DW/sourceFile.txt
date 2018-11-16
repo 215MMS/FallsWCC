@@ -22,17 +22,17 @@ photo   dw3                         = Open the dishwasher
 photo   dw4                         = Load the dirty dishes
         url                         = Dishwasher4.jpg
                 
-#photo   dw5                         = Put the dishwasher tablet in
-#        url                         = Dishwasher5.jpg
+photo   dw5                         = Put the dishwasher tablet in
+        url                         = Dishwasher5.jpg
         
-#photo   dw6                         = Put the rinse aid in
-#        url                         = Dishwasher6.jpg
+photo   dw6                         = Put the rinse aid in
+        url                         = Dishwasher6.jpg
         
-#photo   dw7                         = Close the dishwasher tablet compartment
-#        url                         = Dishwasher7.jpg
+photo   dw7                         = Close the dishwasher tablet compartment
+        url                         = Dishwasher7.jpg
         
-#photo   dw8                         = Close the dishwasher door
-#        url                         = Dishwasher8.jpg
+photo   dw8                         = Close the dishwasher door
+        url                         = Dishwasher8.jpg
         
 #photo   dw9                         = Choose the right cycle
 #        url                         = Dishwasher9.jpg
