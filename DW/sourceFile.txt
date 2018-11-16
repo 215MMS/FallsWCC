@@ -40,8 +40,8 @@ photo   dw9                         = Choose the right cycle
 photo   dw10                         = Press the start button
         url                         = Dishwasher10.jpg
         
-photo   dw11                        = When it stops open the dishwasher door
-        url                         = Dishwasher11.jpg
+#photo   dw11                        = When it stops open the dishwasher door
+#        url                         = Dishwasher11.jpg
         
 photo   dw12                        = Off load the clean dishes
         url                         = Dishwasher12.jpg
