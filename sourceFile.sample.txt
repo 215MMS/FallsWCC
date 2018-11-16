@@ -29,6 +29,22 @@ fact 20170723_205436.1 = First fact about 20170723_205436
 fact 20170723_205436.2 = Another fact about 20170723_205436
 
 
+# Details of photo Dishwasher
+photo Dishwasher = Title of Dishwasher
+  url = Dishwasher.jpg
+
+fact Dishwasher.1 = First fact about Dishwasher
+fact Dishwasher.2 = Another fact about Dishwasher
+
+
+# Details of photo Dishwasher1
+photo Dishwasher1 = Title of Dishwasher1
+  url = Dishwasher1.jpg
+
+fact Dishwasher1.1 = First fact about Dishwasher1
+fact Dishwasher1.2 = Another fact about Dishwasher1
+
+
 # Details of photo Dishwasher10
 photo Dishwasher10 = Title of Dishwasher10
   url = Dishwasher10.jpg
@@ -53,12 +69,76 @@ fact Dishwasher12.1 = First fact about Dishwasher12
 fact Dishwasher12.2 = Another fact about Dishwasher12
 
 
-# Details of photo Dishwasher2
-photo Dishwasher2 = Title of Dishwasher2
-  url = Dishwasher2.jpg
+# Details of photo Dishwasher13
+photo Dishwasher13 = Title of Dishwasher13
+  url = Dishwasher13.jpg
 
-fact Dishwasher2.1 = First fact about Dishwasher2
-fact Dishwasher2.2 = Another fact about Dishwasher2
+fact Dishwasher13.1 = First fact about Dishwasher13
+fact Dishwasher13.2 = Another fact about Dishwasher13
+
+
+# Details of photo Dishwasher3
+photo Dishwasher3 = Title of Dishwasher3
+  url = Dishwasher3.jpg
+
+fact Dishwasher3.1 = First fact about Dishwasher3
+fact Dishwasher3.2 = Another fact about Dishwasher3
+
+
+# Details of photo Dishwasher4
+photo Dishwasher4 = Title of Dishwasher4
+  url = Dishwasher4.jpg
+
+fact Dishwasher4.1 = First fact about Dishwasher4
+fact Dishwasher4.2 = Another fact about Dishwasher4
+
+
+# Details of photo Dishwasher5
+photo Dishwasher5 = Title of Dishwasher5
+  url = Dishwasher5.jpg
+
+fact Dishwasher5.1 = First fact about Dishwasher5
+fact Dishwasher5.2 = Another fact about Dishwasher5
+
+
+# Details of photo Dishwasher6
+photo Dishwasher6 = Title of Dishwasher6
+  url = Dishwasher6.jpg
+
+fact Dishwasher6.1 = First fact about Dishwasher6
+fact Dishwasher6.2 = Another fact about Dishwasher6
+
+
+# Details of photo Dishwasher7
+photo Dishwasher7 = Title of Dishwasher7
+  url = Dishwasher7.jpg
+
+fact Dishwasher7.1 = First fact about Dishwasher7
+fact Dishwasher7.2 = Another fact about Dishwasher7
+
+
+# Details of photo Dishwasher8
+photo Dishwasher8 = Title of Dishwasher8
+  url = Dishwasher8.jpg
+
+fact Dishwasher8.1 = First fact about Dishwasher8
+fact Dishwasher8.2 = Another fact about Dishwasher8
+
+
+# Details of photo Dishwasher9
+photo Dishwasher9 = Title of Dishwasher9
+  url = Dishwasher9.jpg
+
+fact Dishwasher9.1 = First fact about Dishwasher9
+fact Dishwasher9.2 = Another fact about Dishwasher9
+
+
+# Details of photo Dishwashwer2
+photo Dishwashwer2 = Title of Dishwashwer2
+  url = Dishwashwer2.jpg
+
+fact Dishwashwer2.1 = First fact about Dishwashwer2
+fact Dishwashwer2.2 = Another fact about Dishwashwer2
 
 
 # Details of photo IMG_8149
