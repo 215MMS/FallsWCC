@@ -10,10 +10,10 @@ app    FallsWCC.DW                 =  WCC Dish Washer
        rightInARow                  =  3
        musicSpeechVolume            =  200
        
-photo   dw1                         = Take the dirty dishes from the sink
+photo   dw1                         = Go to the dirty dishes in the sink
         url                         = Dishwasher1.jpg
         
-photo   dw2                         = First rinse the dirty dishes under the tap
+photo   dw2                         = Rinse the dirty dishes under the tap
         url                         = Dishwashwer2.jpg 
 
 photo   dw3                         = Open the dishwasher
@@ -40,10 +40,10 @@ photo   dw9                         = Choose the right cycle
 #photo   dw10                         = Press the start button
 #        url                         = Dishwasher10.jpg
         
-#photo   dw11                        = When it stops open the dishwasher door
+#photo   dw11                        = When it stops, open the dishwasher door
 #        url                         = Dishwasher11.jpg
         
-photo   dw12                        = Off load the clean dishes
+photo   dw12                        = Off-load the clean dishes
         url                         = Dishwasher12.jpg
         
 photo   dw13                        = Put away the clean dishes
