@@ -14,7 +14,7 @@ photo   dw1                         = Take the dirty dishes from the sink
         url                         = Dishwasher1.jpg
         
 photo   dw2                         = First rinse the dirty dishes under the tap
-        url                         = Dishwasher2.jpg 
+        url                         = Dishwashwer2.jpg 
 
 photo   dw3                         = Open the dishwasher
         url                         = Dishwasher3.jpg
