@@ -1,5 +1,5 @@
 
-app    FallsWCC.DW                 =  WCC Dish Washer                                                              
+app    FallsWCC.DW                  =  WCC Dish Washer                                                              
        author                       =  215MMS                                                                                            
        description                  =  How to use a dish washer                                                      
        email                        =  215multimediasuite@gmail.com                                                                                   
