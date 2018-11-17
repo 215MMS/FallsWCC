@@ -26,7 +26,7 @@ photo   wm6                         = Open the washing machine door
         url                         = WashingM6.jpg
         
 photo   wm7                         = Load the washing
-        url                         = WashingM12.jpg
+        url                         = WashingM12.JPG
         
 photo   wm8                         = Put the washing tablets in the machine
         url                         = WashingM8.jpg
@@ -41,7 +41,7 @@ photo   wm11                        = Press the ON button
         url                         = WashingM11.jpg
         
 photo   wm12                        = Take out the washing when it's done
-        url                         = WashingM7.JPG
+        url                         = WashingM7.jpg
         
 photo   wm13                        = Put the damp clothes on the rack
         url                         = WashingM13.jpg
