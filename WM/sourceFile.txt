@@ -35,7 +35,7 @@ photo   wm9                         = Close the washing machine door
         url                         = WashingM9.jpg
         
 photo   wm10                        = Choose the right cycle
-        url                         = WashingM11.jpg
+        url                         = WashingM10.jpg
         
 photo   wm11                        = Press the ON button
         url                         = WashingM11.jpg
