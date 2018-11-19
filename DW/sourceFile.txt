@@ -33,20 +33,17 @@ photo   dw7                         = Close the dishwasher tablet compartment
         
 photo   dw8                         = Close the dishwasher door
         url                         = Dishwasher8.jpg
-        
-photo   dw9                         = Choose the right cycle
+            
+photo   dw9                        = Press the start button
         url                         = Dishwasher9.jpg
         
-photo   dw10                        = Press the start button
+photo   dw10                        = When it stops, open the dishwasher door
         url                         = Dishwasher10.jpg
         
-photo   dw11                        = When it stops, open the dishwasher door
+photo   dw11                        = Off-load the clean dishes
         url                         = Dishwasher11.jpg
         
-photo   dw12                        = Off-load the clean dishes
+photo   dw12                        = Put away the clean dishes
         url                         = Dishwasher12.jpg
-        
-photo   dw13                        = Put away the clean dishes
-        url                         = Dishwasher13.jpg
         
         
