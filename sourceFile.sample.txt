@@ -69,6 +69,14 @@ fact Dishwasher12.1 = First fact about Dishwasher12
 fact Dishwasher12.2 = Another fact about Dishwasher12
 
 
+# Details of photo Dishwasher2
+photo Dishwasher2 = Title of Dishwasher2
+  url = Dishwasher2.jpg
+
+fact Dishwasher2.1 = First fact about Dishwasher2
+fact Dishwasher2.2 = Another fact about Dishwasher2
+
+
 # Details of photo Dishwasher3
 photo Dishwasher3 = Title of Dishwasher3
   url = Dishwasher3.jpg
@@ -123,14 +131,6 @@ photo Dishwasher9 = Title of Dishwasher9
 
 fact Dishwasher9.1 = First fact about Dishwasher9
 fact Dishwasher9.2 = Another fact about Dishwasher9
-
-
-# Details of photo Dishwashwer2
-photo Dishwashwer2 = Title of Dishwashwer2
-  url = Dishwashwer2.jpg
-
-fact Dishwashwer2.1 = First fact about Dishwashwer2
-fact Dishwashwer2.2 = Another fact about Dishwashwer2
 
 
 # Details of photo IMG_8149
