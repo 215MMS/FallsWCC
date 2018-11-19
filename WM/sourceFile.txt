@@ -8,6 +8,7 @@ app    FallsWCC.WM                 =  WCC Washing Machine
        ordered                      =  always
        rightInARow                  =  3
        musicSpeechVolume            =  200
+       speakers                     =  Amy
 
 
 photo   wm2                         = Pick up the basket
@@ -28,7 +29,7 @@ photo   wm6                         = Open the washing machine door
 photo   wm7                         = Load the washing
         url                         = WashingM12.JPG
         
-photo   wm8                         = Put the washing tablets in the machine
+photo   wm8                         = Put the washing tablets in the drum
         url                         = WashingM8.jpg
         
 photo   wm9                         = Close the washing machine door
