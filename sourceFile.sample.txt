@@ -101,6 +101,14 @@ fact Dishwasher7.1 = First fact about Dishwasher7
 fact Dishwasher7.2 = Another fact about Dishwasher7
 
 
+# Details of photo Dishwasher8
+photo Dishwasher8 = Title of Dishwasher8
+  url = Dishwasher8.jpg
+
+fact Dishwasher8.1 = First fact about Dishwasher8
+fact Dishwasher8.2 = Another fact about Dishwasher8
+
+
 # Details of photo Dishwashwer2
 photo Dishwashwer2 = Title of Dishwashwer2
   url = Dishwashwer2.jpg
