@@ -44,6 +44,6 @@ photo   dw11                        = Off-load the clean dishes
         url                         = Dishwasher11.jpg
         
 photo   dw12                        = Put away the clean dishes
-        url                         = Dishwasher12.jpg
+        url                         = Dishwasher12a.jpg
         
         
