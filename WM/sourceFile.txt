@@ -14,7 +14,7 @@ app    FallsWCC.WM                 =  WCC Washing Machine
 photo   wm2                         = Pick up the basket
         url                         = WashingM2.jpg
         
-photo   wm3                         = Get the COSHH cupboard key
+photo   wm3                         = Get COSHH cupboard key from the key box
         url                         = WashingM3.jpg
         
 photo   wm4                         = Open the COSHH cupboard
