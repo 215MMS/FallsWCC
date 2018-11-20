@@ -61,12 +61,12 @@ fact Dishwasher11.1 = First fact about Dishwasher11
 fact Dishwasher11.2 = Another fact about Dishwasher11
 
 
-# Details of photo Dishwasher12
-photo Dishwasher12 = Title of Dishwasher12
-  url = Dishwasher12.jpg
+# Details of photo Dishwasher12a
+photo Dishwasher12a = Title of Dishwasher12a
+  url = Dishwasher12a.jpg
 
-fact Dishwasher12.1 = First fact about Dishwasher12
-fact Dishwasher12.2 = Another fact about Dishwasher12
+fact Dishwasher12a.1 = First fact about Dishwasher12a
+fact Dishwasher12a.2 = Another fact about Dishwasher12a
 
 
 # Details of photo Dishwasher2
