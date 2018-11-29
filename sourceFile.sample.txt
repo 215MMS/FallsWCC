@@ -149,6 +149,54 @@ fact IMG_8163.1 = First fact about IMG_8163
 fact IMG_8163.2 = Another fact about IMG_8163
 
 
+# Details of photo Walking4
+photo Walking4 = Title of Walking4
+  url = Walking4.jpg
+
+fact Walking4.1 = First fact about Walking4
+fact Walking4.2 = Another fact about Walking4
+
+
+# Details of photo Walking5
+photo Walking5 = Title of Walking5
+  url = Walking5.jpg
+
+fact Walking5.1 = First fact about Walking5
+fact Walking5.2 = Another fact about Walking5
+
+
+# Details of photo Walking6
+photo Walking6 = Title of Walking6
+  url = Walking6.jpg
+
+fact Walking6.1 = First fact about Walking6
+fact Walking6.2 = Another fact about Walking6
+
+
+# Details of photo Walking7
+photo Walking7 = Title of Walking7
+  url = Walking7.jpg
+
+fact Walking7.1 = First fact about Walking7
+fact Walking7.2 = Another fact about Walking7
+
+
+# Details of photo Walking8
+photo Walking8 = Title of Walking8
+  url = Walking8.jpg
+
+fact Walking8.1 = First fact about Walking8
+fact Walking8.2 = Another fact about Walking8
+
+
+# Details of photo Walking9
+photo Walking9 = Title of Walking9
+  url = Walking9.jpg
+
+fact Walking9.1 = First fact about Walking9
+fact Walking9.2 = Another fact about Walking9
+
+
 # Details of photo WashingM1
 photo WashingM1 = Title of WashingM1
   url = WashingM1.JPG
