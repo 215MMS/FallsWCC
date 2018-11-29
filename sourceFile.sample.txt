@@ -149,6 +149,14 @@ fact IMG_8163.1 = First fact about IMG_8163
 fact IMG_8163.2 = Another fact about IMG_8163
 
 
+# Details of photo To a shop
+photo To_a_shop = Title of To a shop
+  url = To a shop.jpg
+
+fact To_a_shop.1 = First fact about To a shop
+fact To_a_shop.2 = Another fact about To a shop
+
+
 # Details of photo Walking4
 photo Walking4 = Title of Walking4
   url = Walking4.jpg
