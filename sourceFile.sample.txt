@@ -165,6 +165,14 @@ fact Walking1.1 = First fact about Walking1
 fact Walking1.2 = Another fact about Walking1
 
 
+# Details of photo Walking10
+photo Walking10 = Title of Walking10
+  url = Walking10.jpg
+
+fact Walking10.1 = First fact about Walking10
+fact Walking10.2 = Another fact about Walking10
+
+
 # Details of photo Walking2
 photo Walking2 = Title of Walking2
   url = Walking2.jpg
