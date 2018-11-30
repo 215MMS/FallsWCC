@@ -7,7 +7,7 @@ app    FallsWCC.TT                  =  WCC Going to a shop
        logoText                     =  Walking to a shop, Coreliu 
        ordered                      =  always
        rightInARow                  =  3
-       musicSpeechVolume            =  201
+       musicSpeechVolume            =  203
        
 photo   tt1                         = As you exit turn left
         url                         = Walking1.jpg
