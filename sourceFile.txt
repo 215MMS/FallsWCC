@@ -1,4 +1,4 @@
-app    FallsWCC                     =  Falls WCC                                                                  
+app    FallsWCC.TT                  =  Falls WCC                                                                  
        author                       =  215MMS                                                                                            
        description                  =  WCC test of 180218 automated system                                                      
        email                        =  215multimediasuite@gmail.com                                                                                   
