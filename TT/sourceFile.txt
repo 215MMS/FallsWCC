@@ -13,7 +13,7 @@ photo   tt1                         = As you exit turn left
         url                         = Walking1.jpg
         
 photo   tt2                         = Look out for traffic before turning right
-        url                         = Walkin2.jpg 
+        url                         = Walking2.jpg 
 
 photo   tt3                         = Stop at the pedestrian light
         url                         = Walking3.jpg
