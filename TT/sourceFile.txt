@@ -1,1 +1,41 @@
+app    FallsWCC.TT                  =  WCC Going to a shop                                                          
+       author                       =  215MMS                                                                                            
+       description                  =  Travel Training                                                      
+       email                        =  215multimediasuite@gmail.com                                                                                   
+       emphasis                     =  15                                                                                                    
+       icon                         =  ToaShop.jpg 
+       logoText                     =  Walking to a shop, Coreliu 
+       ordered                      =  always
+       rightInARow                  =  3
+       musicSpeechVolume            =  201
+       
+photo   tt1                         = As you exit turn left
+        url                         = Walking1.jpg
+        
+photo   tt2                         = Look out for traffic before turning right
+        url                         = Walkin2.jpg 
 
+photo   tt3                         = Stop at the pedestrian light
+        url                         = Walking3.jpg
+        
+photo   tt4                         = Press the traffic light and wait for the Green man
+        url                         = Walking4.jpg
+                
+photo   tt5                         = Now you can cross the road
+        url                         = Walking5.jpg
+        
+photo   tt6                         = Turn right after you cross the road
+        url                         = Walking6.jpg
+        
+photo   tt7                         = Look out for incoming traffic before crossing
+        url                         = Walking7.jpg
+        
+photo   tt8                         = Enter the shop
+        url                         = Walking8.jpg
+            
+photo   tt9                         = Choose what you would like to buy
+        url                         = Walking9.jpg
+        
+photo   tt10                        = Pay for your shopping at the cashier desk
+        url                         = Walking10.jpg
+        
