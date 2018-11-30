@@ -157,6 +157,30 @@ fact ToaShop.1 = First fact about ToaShop
 fact ToaShop.2 = Another fact about ToaShop
 
 
+# Details of photo Walking1
+photo Walking1 = Title of Walking1
+  url = Walking1.jpg
+
+fact Walking1.1 = First fact about Walking1
+fact Walking1.2 = Another fact about Walking1
+
+
+# Details of photo Walking2
+photo Walking2 = Title of Walking2
+  url = Walking2.jpg
+
+fact Walking2.1 = First fact about Walking2
+fact Walking2.2 = Another fact about Walking2
+
+
+# Details of photo Walking3
+photo Walking3 = Title of Walking3
+  url = Walking3.jpg
+
+fact Walking3.1 = First fact about Walking3
+fact Walking3.2 = Another fact about Walking3
+
+
 # Details of photo Walking4
 photo Walking4 = Title of Walking4
   url = Walking4.jpg
