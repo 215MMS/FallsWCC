@@ -229,14 +229,6 @@ fact Walking8.1 = First fact about Walking8
 fact Walking8.2 = Another fact about Walking8
 
 
-# Details of photo Walking9
-photo Walking9 = Title of Walking9
-  url = Walking9.jpg
-
-fact Walking9.1 = First fact about Walking9
-fact Walking9.2 = Another fact about Walking9
-
-
 # Details of photo WashingM1
 photo WashingM1 = Title of WashingM1
   url = WashingM1.JPG
