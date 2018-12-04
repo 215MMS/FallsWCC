@@ -8,8 +8,10 @@ app    FallsWCC.DW                  =  WCC Dish Washer
        logoText                     =  Washing dirty dishes, Coreliu 
        ordered                      =  always
        rightInARow                  =  3
-       musicSpeechVolume            =  201
+       musicSpeechVolume            =  200
        speakers                     =  Amy
+       maxImages                    =  3
+       
        
 photo   dw1                         = Go to the dirty dishes in the sink
         url                         = Dishwasher1.jpg
