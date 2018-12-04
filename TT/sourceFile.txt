@@ -9,6 +9,8 @@ app    FallsWCC.TT                  =  WCC Going to a shop
        rightInARow                  =  3
        musicSpeechVolume            =  205
        speakers                     =  Brian
+       maxImages                    =  3
+       
        
 photo   tt1                         = As you exit turn left
         url                         = Walking1.jpg
