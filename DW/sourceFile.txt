@@ -9,6 +9,7 @@ app    FallsWCC.DW                  =  WCC Dish Washer
        ordered                      =  always
        rightInARow                  =  3
        musicSpeechVolume            =  201
+       speakers                     =  Amy
        
 photo   dw1                         = Go to the dirty dishes in the sink
         url                         = Dishwasher1.jpg
