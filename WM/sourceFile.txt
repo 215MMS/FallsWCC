@@ -9,6 +9,7 @@ app    FallsWCC.WM                 =  WCC Washing Machine
        rightInARow                  =  3
        musicSpeechVolume            =  200
        speakers                     =  Amy
+       maxImages                    =  2
 
 
 photo   wm2                         = Pick up the basket
