@@ -5,7 +5,7 @@ app    FallsWCC.TT                  =  WCC Going to a shop
        emphasis                     =  15                                                                                                    
        icon                         =  ToaShop.jpg 
        logoText                     =  Walking to a shop, pilot app, Coreliu 
-       ordered                      =  finally
+       ordered                      =  always
        rightInARow                  =  3
        musicSpeechVolume            =  205
        
