@@ -157,6 +157,22 @@ fact ToaShop.1 = First fact about ToaShop
 fact ToaShop.2 = Another fact about ToaShop
 
 
+# Details of photo WM2icon
+photo WM2icon = Title of WM2icon
+  url = WM2icon.jpg
+
+fact WM2icon.1 = First fact about WM2icon
+fact WM2icon.2 = Another fact about WM2icon
+
+
+# Details of photo WahsM4
+photo WahsM4 = Title of WahsM4
+  url = WahsM4.jpg
+
+fact WahsM4.1 = First fact about WahsM4
+fact WahsM4.2 = Another fact about WahsM4
+
+
 # Details of photo Walking1
 photo Walking1 = Title of Walking1
   url = Walking1.jpg
@@ -235,6 +251,54 @@ photo Walking9 = Title of Walking9
 
 fact Walking9.1 = First fact about Walking9
 fact Walking9.2 = Another fact about Walking9
+
+
+# Details of photo WashM2
+photo WashM2 = Title of WashM2
+  url = WashM2.jpg
+
+fact WashM2.1 = First fact about WashM2
+fact WashM2.2 = Another fact about WashM2
+
+
+# Details of photo WashM3
+photo WashM3 = Title of WashM3
+  url = WashM3.jpg
+
+fact WashM3.1 = First fact about WashM3
+fact WashM3.2 = Another fact about WashM3
+
+
+# Details of photo WashM5
+photo WashM5 = Title of WashM5
+  url = WashM5.jpg
+
+fact WashM5.1 = First fact about WashM5
+fact WashM5.2 = Another fact about WashM5
+
+
+# Details of photo WashM6
+photo WashM6 = Title of WashM6
+  url = WashM6.jpg
+
+fact WashM6.1 = First fact about WashM6
+fact WashM6.2 = Another fact about WashM6
+
+
+# Details of photo WashM7
+photo WashM7 = Title of WashM7
+  url = WashM7.jpg
+
+fact WashM7.1 = First fact about WashM7
+fact WashM7.2 = Another fact about WashM7
+
+
+# Details of photo WashM8
+photo WashM8 = Title of WashM8
+  url = WashM8.jpg
+
+fact WashM8.1 = First fact about WashM8
+fact WashM8.2 = Another fact about WashM8
 
 
 # Details of photo WashingM1
