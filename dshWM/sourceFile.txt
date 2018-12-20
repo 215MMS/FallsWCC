@@ -28,7 +28,7 @@ photo   wm6                         = Close the washing machine door
         url                         = WashM6.jpg
         
 photo   wm7                         = Put in the soap powder
-        url                         = WashM7.jPG
+        url                         = WashM7.jpg
         
 photo   wm8                         = Close the despenser  
         url                         = WashM8.jpg
