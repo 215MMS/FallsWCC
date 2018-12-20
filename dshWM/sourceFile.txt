@@ -1,4 +1,4 @@
-app    FallsWCC.WM                  =  WCC DSH washing machine                                                                  
+app    FallsWCC.dshWM               =  WCC DSH washing machine                                                                  
        author                       =  215MMS                                                                                            
        description                  =  How to use a washing machine                                                      
        email                        =  215multimediasuite@gmail.com                                                                                   
@@ -31,7 +31,7 @@ photo   wm7                         = Put in the soap powder
         url                         = WashM7.JPG
         
 photo   wm8                         = Close the despenser  
-        url                         = WashingM8.jpg
+        url                         = WashM8.jpg
         
 photo   wm9                         = Press the start button
         url                         = WashM9.jpg
