@@ -165,14 +165,6 @@ fact WM2icon.1 = First fact about WM2icon
 fact WM2icon.2 = Another fact about WM2icon
 
 
-# Details of photo WahsM4
-photo WahsM4 = Title of WahsM4
-  url = WahsM4.jpg
-
-fact WahsM4.1 = First fact about WahsM4
-fact WahsM4.2 = Another fact about WahsM4
-
-
 # Details of photo Walking1
 photo Walking1 = Title of Walking1
   url = Walking1.jpg
@@ -267,6 +259,14 @@ photo WashM3 = Title of WashM3
 
 fact WashM3.1 = First fact about WashM3
 fact WashM3.2 = Another fact about WashM3
+
+
+# Details of photo WashM4
+photo WashM4 = Title of WashM4
+  url = WashM4.jpg
+
+fact WashM4.1 = First fact about WashM4
+fact WashM4.2 = Another fact about WashM4
 
 
 # Details of photo WashM5
