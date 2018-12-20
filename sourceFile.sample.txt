@@ -245,6 +245,14 @@ fact Walking9.1 = First fact about Walking9
 fact Walking9.2 = Another fact about Walking9
 
 
+# Details of photo WashM10
+photo WashM10 = Title of WashM10
+  url = WashM10.jpg
+
+fact WashM10.1 = First fact about WashM10
+fact WashM10.2 = Another fact about WashM10
+
+
 # Details of photo WashM2
 photo WashM2 = Title of WashM2
   url = WashM2.jpg
@@ -299,6 +307,14 @@ photo WashM8 = Title of WashM8
 
 fact WashM8.1 = First fact about WashM8
 fact WashM8.2 = Another fact about WashM8
+
+
+# Details of photo WashM9
+photo WashM9 = Title of WashM9
+  url = WashM9.jpg
+
+fact WashM9.1 = First fact about WashM9
+fact WashM9.2 = Another fact about WashM9
 
 
 # Details of photo WashingM1
