@@ -1,1 +1,41 @@
+app    FallsWCC.WM                  =  WCC DSH washing machine                                                                  
+       author                       =  215MMS                                                                                            
+       description                  =  How to use a washing machine                                                      
+       email                        =  215multimediasuite@gmail.com                                                                                   
+       emphasis                     =  15                                                                                                    
+       icon                         =  WM2icon.JPG 
+       logoText                     =  Washing Clothes, Coreliu 
+       ordered                      =  always
+       rightInARow                  =  3
+       musicSpeechVolume            =  200
+       speakers                     =  Amy
+       maxImages                    =  2
 
+
+photo   wm2                         = Put on apron and gloves
+        url                         = WashM2.jpg
+        
+photo   wm3                         = Pick up the basket 
+        url                         = WashM3.jpg
+        
+photo   wm4                         = Open the washing machine door
+        url                         = WashM4.jpg
+        
+photo   wm5                         = Load the dirty clothes
+        url                         = WashM5.jpg
+        
+photo   wm6                         = Close the washing machine door
+        url                         = WashM6.jpg
+        
+photo   wm7                         = Put in the soap powder
+        url                         = WashM7.JPG
+        
+photo   wm8                         = Close the despenser  
+        url                         = WashingM8.jpg
+        
+photo   wm9                         = Press the start button
+        url                         = WashM9.jpg
+        
+photo   wm10                        = When it is finished off load the damp clothes
+        url                         = WashM10.jpg
+        
