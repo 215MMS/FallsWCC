@@ -1,7 +1,7 @@
 
 app    FallsWCC.DW                  =  WCC Dish Washer                                                              
        author                       =  215MMS                                                                                            
-       description                  =  How to use a dish washer                                                      
+       description                  =  How to use a dishwasher                                                      
        email                        =  215multimediasuite@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
        icon                         =  Dishwasher.jpg 
@@ -16,7 +16,7 @@ app    FallsWCC.DW                  =  WCC Dish Washer
 photo   dw1                         = Go to the dirty dishes in the sink
         url                         = Dishwasher1.jpg
         
-photo   dw2                         = Rinse the dirty dishes under the tap
+photo   dw2                         = Rinse dirty dishes under the tap
         url                         = Dishwasher2.jpg 
 
 photo   dw3                         = Open the dishwasher
@@ -40,7 +40,7 @@ photo   dw8                         = Close the dishwasher door
 photo   dw9                         = Press the start button
         url                         = Dishwasher9.jpg
         
-photo   dw10                        = When it stops, open the dishwasher door
+photo   dw10                        = When the dishwasher stops, open the door
         url                         = Dishwasher10.jpg
         
 photo   dw11                        = Off-load the clean dishes
