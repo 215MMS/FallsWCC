@@ -10,7 +10,7 @@ app    FallsWCC.DW                  =  WCC Dish Washer
        rightInARow                  =  3
        musicSpeechVolume            =  201
        speakers                     =  Amy
-       maxImages                    =  3
+       maxImages                     =  3
        
        
 photo   dw1                         = Go to the dirty dishes in the sink
