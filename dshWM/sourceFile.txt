@@ -36,6 +36,6 @@ photo   wm8                         = Close the despenser
 photo   wm9                         = Press the start button
         url                         = WashM9.jpg
         
-photo   wm10                        = When it is finished off load the damp clothes
+photo   wm10                        = When it is finished, off load the damp clothes
         url                         = WashM10.jpg
         
