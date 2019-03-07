@@ -30,7 +30,7 @@ photo   wm6                         = Close the washing machine door
 photo   wm7                         = Put in the soap powder
         url                         = WashM7.jpg
         
-photo   wm8                         = Close the despenser  
+photo   wm8                         = Close the dispenser  
         url                         = WashM8.jpg
         
 photo   wm9                         = Press the start button
