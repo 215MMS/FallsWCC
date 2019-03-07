@@ -7,7 +7,7 @@ app    FallsWCC.WM                 =  WCC Washing Machine
        logoText                     =  Washing Clothes, Coreliu 
        ordered                      =  always
        rightInARow                  =  3
-       musicSpeechVolume            =  200
+       musicSpeechVolume            =  201
        speakers                     =  Amy
        maxImages                    =  2
 
