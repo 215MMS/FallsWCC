@@ -8,7 +8,7 @@ app    FallsWCC.DW                  =  WCC Dish Washer
        logoText                     =  Washing dirty dishes, Coreliu 
        ordered                      =  always
        rightInARow                  =  3
-       musicSpeechVolume            =  201
+       musicSpeechVolume            =  250
        speakers                     =  Amy
        maxImages                     =  3
        
