@@ -149,6 +149,78 @@ fact IMG_8163.1 = First fact about IMG_8163
 fact IMG_8163.2 = Another fact about IMG_8163
 
 
+# Details of photo PhotoCopying
+photo PhotoCopying = Title of PhotoCopying
+  url = PhotoCopying.jpg
+
+fact PhotoCopying.1 = First fact about PhotoCopying
+fact PhotoCopying.2 = Another fact about PhotoCopying
+
+
+# Details of photo PhotoCopying1
+photo PhotoCopying1 = Title of PhotoCopying1
+  url = PhotoCopying1.jpg
+
+fact PhotoCopying1.1 = First fact about PhotoCopying1
+fact PhotoCopying1.2 = Another fact about PhotoCopying1
+
+
+# Details of photo PhotoCopying2
+photo PhotoCopying2 = Title of PhotoCopying2
+  url = PhotoCopying2.jpg
+
+fact PhotoCopying2.1 = First fact about PhotoCopying2
+fact PhotoCopying2.2 = Another fact about PhotoCopying2
+
+
+# Details of photo PhotoCopying3
+photo PhotoCopying3 = Title of PhotoCopying3
+  url = PhotoCopying3.jpg
+
+fact PhotoCopying3.1 = First fact about PhotoCopying3
+fact PhotoCopying3.2 = Another fact about PhotoCopying3
+
+
+# Details of photo PhotoCopying4
+photo PhotoCopying4 = Title of PhotoCopying4
+  url = PhotoCopying4.jpg
+
+fact PhotoCopying4.1 = First fact about PhotoCopying4
+fact PhotoCopying4.2 = Another fact about PhotoCopying4
+
+
+# Details of photo PhotoCopying5
+photo PhotoCopying5 = Title of PhotoCopying5
+  url = PhotoCopying5.jpg
+
+fact PhotoCopying5.1 = First fact about PhotoCopying5
+fact PhotoCopying5.2 = Another fact about PhotoCopying5
+
+
+# Details of photo PhotoCopying6
+photo PhotoCopying6 = Title of PhotoCopying6
+  url = PhotoCopying6.jpg
+
+fact PhotoCopying6.1 = First fact about PhotoCopying6
+fact PhotoCopying6.2 = Another fact about PhotoCopying6
+
+
+# Details of photo PhotoCopying7
+photo PhotoCopying7 = Title of PhotoCopying7
+  url = PhotoCopying7.jpg
+
+fact PhotoCopying7.1 = First fact about PhotoCopying7
+fact PhotoCopying7.2 = Another fact about PhotoCopying7
+
+
+# Details of photo PhotoCopying8
+photo PhotoCopying8 = Title of PhotoCopying8
+  url = PhotoCopying8.jpg
+
+fact PhotoCopying8.1 = First fact about PhotoCopying8
+fact PhotoCopying8.2 = Another fact about PhotoCopying8
+
+
 # Details of photo ToaShop
 photo ToaShop = Title of ToaShop
   url = ToaShop.jpg
