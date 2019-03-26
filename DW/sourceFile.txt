@@ -1,16 +1,16 @@
 
-app     FallsWCC.DW                  =  WCC Dish Washer                                                              
-        author                       =  215MMS                                                                                            
-        description                  =  How to use a dishwasher                                                      
-        email                        =  215multimediasuite@gmail.com                                                                                   
-        emphasis                     =  15                                                                                                    
-        icon                         =  Dishwasher.jpg 
-        logoText                     =  Washing dirty dishes, Coreliu 
-        ordered                      =  always
-        rightInARow                  =  3
-        musicSpeechVolume            =  250
-        speakers                     =  Amy
-        maxImages                     =  3
+app     FallsWCC.DW                 =  WCC Dish Washer                                                              
+        author                      =  215MMS                                                                                            
+        description                 =  How to use a dishwasher                                                      
+        email                       =  215multimediasuite@gmail.com                                                                                   
+        emphasis                    =  15                                                                                                    
+        icon                        =  Dishwasher.jpg 
+        logoText                    =  Washing dirty dishes, Coreliu 
+        ordered                     =  always
+        rightInARow                 =  3
+        musicSpeechVolume           =  250
+        speakers                    =  Amy
+        maxImages                   =  3
        
        
 photo   dw1                         = Go to the dirty dishes in the sink
