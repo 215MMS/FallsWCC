@@ -35,4 +35,4 @@ photo pc7               = Press the start button
       url               = PhotoCopying7.jpg
       
 photo pc8               = Collect the print out
-url = PhotoCopying8.jpg
+url                     = PhotoCopying8.jpg
