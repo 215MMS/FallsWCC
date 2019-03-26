@@ -1,5 +1,5 @@
 
-app FallsWCC.PhoCop1  = WE Photo Copier
+app FallsWCC.PhoCop1    = WE Photo Copier
     author              = 215MMS
     description         = How to use a photo copier
     email               = 215multimediasuite@gmail.com
