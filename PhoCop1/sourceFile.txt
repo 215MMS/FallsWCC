@@ -10,7 +10,7 @@ app FallsWCC.PhoCop1    = WE Photo Copier
     rightInARow         = 3
     musicSpeechVolume   = 250
     speakers            = Amy
-    maxImages           = 3
+    maxImages           = 2
     
     
 photo pc1               = Pick up the paper from the tray
